@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="MD Ashraful Islam — Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#121829"/>
+      <stop offset="100%" stop-color="#1b2340"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.05"/>
+    </pattern>
+    <clipPath id="round">
+      <rect width="840" height="220" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="840" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="840" height="220" rx="18" fill="url(#dots)"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="url(#accent)"/>
+
+  <g clip-path="url(#round)">
+    <circle cx="722" cy="110" r="100" fill="url(#glow)"/>
+    <circle cx="722" cy="110" r="52" fill="none" stroke="url(#accent)" stroke-width="2.5"/>
+    <text x="722" y="123" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#accent)" text-anchor="middle">MA</text>
+  </g>
+
+  <text x="48" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="0.5">MD ASHRAFUL ISLAM</text>
+  <text x="48" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#9aa7c7">Full-Stack Developer  ·  Web · Mobile · AI</text>
+  <rect x="48" y="142" width="150" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="48" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#58a6ff">Malaysia  ·  @SoftourTech  ·  Computer Science @ City University</text>
+</svg>

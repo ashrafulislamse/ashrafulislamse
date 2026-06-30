@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm MD Ashraful Islam</h1>
-<h3 align="center">Full-Stack Developer · Web, Mobile & AI Products</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashrafulislamse/ashrafulislamse/main/assets/header.svg" alt="MD Ashraful Islam — Full-Stack Developer" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ashrafulislamse">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Web+%C2%B7+Mobile+%C2%B7+AI+Builder;Shipping+products+across+industries;Always+learning+new+things&font=Fira+Code&center=true&width=560&height=45&color=1f6feb&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Web+%C2%B7+Mobile+%C2%B7+AI+Builder;Shipping+products+across+industries;Always+learning+new+things&font=Fira+Code&center=true&width=560&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashrafulislamse?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ashrafulislamse?label=Followers&logo=github&style=for-the-badge&color=1f6feb"></a>
-  <a href="https://github.com/ashrafulislamse?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/54-Repositories-238636?logo=github&style=for-the-badge&logoColor=white"></a>
-  <a href="https://github.com/ashrafulislamse?tab=repositories&q=&type=source"><img alt="Location" src="https://img.shields.io/badge/Malaysia-%F0%9F%87%B2%F0%9F%87%BE-blue?style=for-the-badge"></a>
+  <a href="https://github.com/ashrafulislamse?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/50%2B-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ashrafulislamse"><img alt="Contributions" src="https://img.shields.io/badge/800%2B-Contributions-238636?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#-products-ive-built"><img alt="Products" src="https://img.shields.io/badge/10%2B-Products_Shipped-bc8cff?style=for-the-badge"></a>
+  <a href="#-products-ive-built"><img alt="Industries" src="https://img.shields.io/badge/6%2B-Industries-f78166?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ashrafulwpdev"><img alt="X" title="X / Twitter" src="https://img.shields.io/badge/X-@ashrafulwpdev-000000?logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ashrafulwpdev"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulwpdev-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/ashrafulwpdevcom"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulwpdev-1877F2?logo=facebook&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/ashrafulwpdev"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulwpdev-FF4500?logo=reddit&logoColor=white"></a>
-  <a href="https://github.com/ashrafulislamse"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-ashrafulislamse-181717?logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/ashrafulwpdev"><img alt="X" title="X / Twitter" src="https://img.shields.io/badge/X-@ashrafulwpdev-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ashrafulwpdev"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulwpdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/ashrafulwpdevcom"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulwpdev-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/ashrafulwpdev"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulwpdev-FF4500?style=flat-square&logo=reddit&logoColor=white"></a>
+  <a href="https://github.com/ashrafulislamse"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-ashrafulislamse-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -37,47 +39,46 @@ I work across the **Next.js, TypeScript, Flutter, and Laravel** ecosystems and h
 
 ---
 
-<details open>
-<summary><h2>🚀 Products I've Built</h2></summary>
+### 🚀 Products I've Built
 
-<p>Flagship products I've designed and developed end-to-end — many include mobile apps, web dashboards, and serverless backends.</p>
+Flagship products I've designed and developed end-to-end — many include mobile apps, web dashboards, and serverless backends.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://smartcura.vercel.app">SmartCura</a></h3>
+      <h3><a href="https://smartcura.vercel.app">🩺 SmartCura</a></h3>
       <p>Complete telemedicine ecosystem with patient &amp; doctor mobile apps (Flutter), a web admin portal (Next.js), IoT health monitoring, an AI clinical assistant, and emergency response.</p>
       <code>Flutter</code> <code>Next.js</code> <code>IoT</code> <code>AI</code> <code>Appwrite</code>
-      <br/><br/>🔗 <a href="https://smartcura.vercel.app">smartcura.vercel.app</a>
+      <br/>🔗 <a href="https://smartcura.vercel.app">smartcura.vercel.app</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://trovatask.com">TrovaTask</a></h3>
+      <h3><a href="https://trovatask.com">✅ TrovaTask</a></h3>
       <p>A smart, minimalist task manager: an Android app (Java/MVVM), production-grade serverless cloud functions (Appwrite + FCM push), and an enterprise admin dashboard (Next.js 15).</p>
       <code>Java</code> <code>Next.js</code> <code>Appwrite</code> <code>Firebase</code>
-      <br/><br/>🔗 <a href="https://trovatask.com">trovatask.com</a>
+      <br/>🔗 <a href="https://trovatask.com">trovatask.com</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sewasafeui.vercel.app">SewaSafe</a></h3>
+      <h3><a href="https://sewasafeui.vercel.app">🏠 SewaSafe</a></h3>
       <p>Malaysia's trusted rental platform with escrow protection, e-KYC verification, and digital tenancy agreements. Built with Laravel 11, Tailwind CSS, and MySQL.</p>
       <code>Laravel</code> <code>MySQL</code> <code>e-KYC</code> <code>Escrow</code>
-      <br/><br/>🔗 <a href="https://sewasafeui.vercel.app">sewasafeui.vercel.app</a>
+      <br/>🔗 <a href="https://sewasafeui.vercel.app">sewasafeui.vercel.app</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Memora AI</h3>
+      <h3>🧠 Memora AI</h3>
       <p>An AI-first memory OS that captures voice, photo, and written memories, understands emotions, and reveals life patterns. Built with React Native, Expo, and GPT-4o.</p>
       <code>React Native</code> <code>Expo</code> <code>GPT-4o</code> <code>AI</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>OmniStream</h3>
+      <h3>🎬 OmniStream</h3>
       <p>A multi-cloud video streaming platform with Google Drive &amp; TeraBox support, an HLS player, and PWA capabilities. Built with React, TypeScript, and Appwrite.</p>
       <code>React</code> <code>TypeScript</code> <code>HLS</code> <code>PWA</code>
     </td>
     <td width="50%" valign="top">
-      <h3>OpenNilai</h3>
+      <h3>🔗 OpenNilai</h3>
       <p>An AI + blockchain credit intelligence platform. A monorepo with a Flutter mobile app, web app, and product blueprint docs.</p>
       <code>Flutter</code> <code>AI</code> <code>Blockchain</code> <code>Monorepo</code>
     </td>
@@ -94,26 +95,58 @@ I work across the **Next.js, TypeScript, Flutter, and Laravel** ecosystems and h
   <li><b>Restkin</b> — secure, renewal-aware personal document vault with smart reminders — <code>TypeScript</code></li>
 </ul>
 
-</details>
+---
 
-<details open>
-<summary><h2>⭐ Open Source &amp; Public Projects</h2></summary>
+### ⭐ Open Source &amp; Public Projects
 
-<p align="left">
-  <a href="https://github.com/ashrafulislamse/iambritto"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=iambritto&theme=tokyonight&hide_border=true" alt="iambritto"></a>
-  <a href="https://github.com/ashrafulislamse/SLTLoader"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=SLTLoader&theme=tokyonight&hide_border=true" alt="SLTLoader"></a>
-  <a href="https://github.com/ashrafulislamse/Auto-Social-Publisher"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=Auto-Social-Publisher&theme=tokyonight&hide_border=true" alt="Auto-Social-Publisher"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/ashrafulislamse/smart-pharmacy-showcase"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=smart-pharmacy-showcase&theme=tokyonight&hide_border=true" alt="smart-pharmacy-showcase"></a>
-  <a href="https://github.com/ashrafulislamse/Securevote"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=Securevote&theme=tokyonight&hide_border=true" alt="Securevote"></a>
-  <a href="https://github.com/ashrafulislamse/Insightzing"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislamse&repo=Insightzing&theme=tokyonight&hide_border=true" alt="Insightzing"></a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it does</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/iambritto"><b>iambritto</b></a></td>
+      <td>Official portfolio site of singer Britto — bilingual Bengali/English, cinematic dark-gold UI. <a href="https://iambritto.vercel.app">↗ live</a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/SLTLoader"><b>SLTLoader</b></a></td>
+      <td>Lightweight Android library for Lottie-based loading indicators.</td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/Auto-Social-Publisher"><b>Auto-Social-Publisher</b></a></td>
+      <td>Automatically publishes new &amp; updated posts to Telegram with enhanced features.</td>
+      <td><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/Securevote"><b>Securevote</b></a></td>
+      <td>Secure voting application. <a href="https://securevote-fawn.vercel.app">↗ live</a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/smart-pharmacy-showcase"><b>Smart Pharmacy</b></a></td>
+      <td>Full-featured Android app modernizing medication access in Malaysia — QR scan, local payments, real-time orders.</td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/trovatask-push-notification"><b>trovatask-push-notification</b></a></td>
+      <td>Appwrite cloud function sending FCM push notifications for new chat messages.</td>
+      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></td>
+    </tr>
+  </tbody>
+</table>
 
-</details>
+---
+
+### 🛠️ Tech Stack
 
 <details>
-<summary><h2>🛠️ Tech Stack</h2></summary>
+<summary><b>Click to expand</b> — languages, frameworks, databases &amp; tools</summary>
 
 <h3>💻 Languages</h3>
 <p>
@@ -176,29 +209,23 @@ I work across the **Next.js, TypeScript, Flutter, and Laravel** ecosystems and h
 
 </details>
 
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="ashrafulislamse streak stats" src="https://streak-stats.demolab.com/?user=ashrafulislamse&theme=tokyonight&hide_border=true" />
+    <img alt="ashrafulislamse streak stats" src="https://streak-stats.demolab.com/?user=ashrafulislamse&theme=tokyonight&hide_border=true&background=0D1117" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ashrafulislamse stats" height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafulislamse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ashrafulislamse top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="ashrafulislamse activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulislamse&bg_color=0d1117&color=1f6feb&line=38bdf8&point=ffffff&hide_border=true&area=true" />
+    <img alt="ashrafulislamse activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulislamse&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&hide_border=true&area=true&title_color=58a6ff" />
   </a>
 </p>
 
-<i>Note: "Top languages" reflects the languages in my public code only and doesn't represent my full experience or skill level.</i>
-
-</details>
+<i>Note: Contribution stats reflect my public activity. Most of my products live in private repositories.</i>
 
 ---
 
