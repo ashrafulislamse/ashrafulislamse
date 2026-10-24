@@ -33,16 +33,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a **software engineer** and **Computer Science student** at City University Malaysia, focused on **AI agents, workflow automation, and full-stack product building**. I ship production-grade **web, mobile, and AI-powered** applications end-to-end — from architecture and UI to deployment.
+I'm a software engineer and Computer Science student at City University Malaysia. I build **AI agents and workflow automation**, and I ship **full-stack products** — web, mobile, and AI-powered — from first sketch to production.
 
-I work across the **TypeScript, Node.js, Flutter, and Python** ecosystems and have shipped products spanning **healthcare, fintech, education, media, and productivity** while still a student. I build and operate digital products through **ZingSwift** ([zingswift.com](https://zingswift.com)), with engineering work in **[@NelvyxHQ](https://github.com/NelvyxHQ)**.
+My core stack is **TypeScript, Node.js, Next.js, Flutter, and Python**, with **Cloudflare Workers** doing a lot of the heavy lifting. Before graduating, I've shipped real products across healthcare, fintech, education, media, and productivity — and I run them through **ZingSwift** ([zingswift.com](https://zingswift.com)), my independent product studio.
 
-- 🔭 Currently building **[InsightZing](https://insightzing.com)** — product intelligence backed by evidence: verified AI revenue claims, business models, market research
-- 🤖 Running **production agent workflows** — email triage, content ingestion, scheduled automations with regression tests and monitoring
-- 📡 Publishing **verified AI revenue research weekly** at insightzing.com
-- 💬 Ask me about **AI agents, Next.js, Flutter, and system reliability**
-- 📫 Reach me through any of the links above
-- ⚡ Fun fact: I've shipped products across 6+ industries before graduating
+- 🔭 Building **[InsightZing](https://insightzing.com)** — product intelligence backed by evidence: verifying AI product revenue claims with sources, not hype
+- 🤖 Operating **production agent workflows** — email triage, content ingestion, scheduled automations, with regression tests and monitoring so they don't break at 3am
+- 💬 Happy to talk about **AI agents, LLM automation, Next.js, Flutter, or system reliability**
+- 📫 The fastest way to reach me is [email](mailto:ashrafulislamse@gmail.com) — or any of the links below
+- ⚡ Shipped products across 6+ industries before finishing my degree
 
 ---
 
