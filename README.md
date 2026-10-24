@@ -33,7 +33,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **full-stack developer** and **Computer Science student** at City University Malaysia. I design and ship production-grade **web, mobile, and AI-powered** applications end-to-end — from architecture and UI to deployment.
+I'm a **software engineer** and **Computer Science student** at City University Malaysia, focused on **AI agents, workflow automation, and full-stack product building**. I ship production-grade **web, mobile, and AI-powered** applications end-to-end — from architecture and UI to deployment.
 
 I work across the **TypeScript, Node.js, Flutter, and Python** ecosystems and have shipped products spanning **healthcare, fintech, education, media, and productivity** while still a student. I build and operate digital products through **ZingSwift** ([zingswift.com](https://zingswift.com)), with engineering work in **[@NelvyxHQ](https://github.com/NelvyxHQ)**.
 
@@ -216,7 +216,9 @@ Flagship products I've designed and developed end-to-end — many include mobile
 
 <h3>🗄️ Databases &amp; Cloud</h3>
 <p>
-  <a href="https://workers.cloudflare.com"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white"></a>
+  <a href="https://workers.cloudflare.com"><img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white"></a>
+  <a href="https://developers.cloudflare.com/d1/"><img alt="Cloudflare D1" src="https://img.shields.io/badge/Cloudflare_D1-F38020?logo=cloudflare&logoColor=white"></a>
+  <a href="https://developers.cloudflare.com/r2/"><img alt="Cloudflare R2" src="https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white"></a>
   <a href="https://www.prisma.io"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"></a>
   <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
   <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
@@ -229,6 +231,7 @@ Flagship products I've designed and developed end-to-end — many include mobile
   <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
   <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"></a>
+  <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
   <a href="https://code.visualstudio.com"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D7?logo=visualstudiocode&logoColor=white"></a>
   <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="https://www.figma.com"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
@@ -249,8 +252,11 @@ Flagship products I've designed and developed end-to-end — many include mobile
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="ashrafulislamse activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulislamse&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&hide_border=true&area=true&title_color=58a6ff" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="ashrafulislamse GitHub stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafulislamse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="ashrafulislamse top languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
   </a>
 </p>
 
@@ -265,6 +271,7 @@ Flagship products I've designed and developed end-to-end — many include mobile
 </p>
 
 <p>
+  <a href="mailto:ashrafulislamse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashrafulislamse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://x.com/ashrafulislamse"><img alt="X" src="https://img.shields.io/badge/X-@ashrafulislamse-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ashrafulislamse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulislamse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/ashrafulislamse"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulislamse-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>

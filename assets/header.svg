@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="MD Ashraful Islam — Full-Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="MD Ashraful Islam — AI Agents &amp; Full-Stack Products">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b1020"/>
@@ -32,7 +32,7 @@
   </g>
 
   <text x="48" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="0.5">MD ASHRAFUL ISLAM</text>
-  <text x="48" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#9aa7c7">Full-Stack Developer  ·  Web · Mobile · AI</text>
+  <text x="48" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#9aa7c7">AI Agents &amp; Full-Stack Products</text>
   <rect x="48" y="142" width="150" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="48" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#58a6ff">Malaysia  ·  @SoftourTech  ·  Computer Science @ City University</text>
+  <text x="48" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#58a6ff">Malaysia  ·  Founder @ ZingSwift  ·  CS @ City University</text>
 </svg>
