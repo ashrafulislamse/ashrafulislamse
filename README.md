@@ -94,9 +94,10 @@ Flagship products I've designed and developed end-to-end — many include mobile
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 OmniStream</h3>
+      <h3><a href="https://github.com/ashrafulislamse/omnistream">🎬 OmniStream</a></h3>
       <p>A multi-cloud video streaming platform with Google Drive &amp; TeraBox support, an HLS player, and PWA capabilities. Built with React, TypeScript, and Appwrite.</p>
       <code>React</code> <code>TypeScript</code> <code>HLS</code> <code>PWA</code>
+      <br/>🔗 <a href="https://github.com/ashrafulislamse/omnistream">github.com/ashrafulislamse/omnistream</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔗 OpenNilai</h3>
@@ -108,8 +109,8 @@ Flagship products I've designed and developed end-to-end — many include mobile
 
 <h4>…and more</h4>
 <ul>
-  <li><b>Basirah</b> — offline-first Islamic companion app (prayer times, Quran, Qibla) — <code>Flutter</code></li>
-  <li><b>শেখার বোর্ড (Shekhar Board)</b> — interactive Bengali learning app for toddlers — <code>Flutter</code></li>
+  <li><b><a href="https://github.com/ashrafulislamse/basirah-app">Basirah</a></b> — offline-first Islamic companion app (prayer times, Quran, Qibla) — <code>Flutter</code></li>
+  <li><b><a href="https://github.com/ashrafulislamse/shekharboard">শেখার বোর্ড (Shekhar Board)</a></b> — interactive Bengali learning app for toddlers — <code>Flutter</code></li>
   <li><b>ZynPlay</b> — AI-ready video player with cloud sources &amp; cinematic UI — <code>Kotlin</code></li>
   <li><b>SPFund</b> — transparent community donation fund management with automated receipts — <code>Next.js</code></li>
   <li><b>Restkin</b> — secure, renewal-aware personal document vault with smart reminders — <code>TypeScript</code></li>
@@ -128,6 +129,16 @@ Flagship products I've designed and developed end-to-end — many include mobile
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/DevBrain"><b>DevBrain</b></a></td>
+      <td>All-in-one DevOps control center &amp; developer productivity dashboard — multi-VPS monitoring, uptime checks, dev tools, and AI assistance.</td>
+      <td><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/coinradar"><b>Coinradar</b></a></td>
+      <td>Telegram bot for cryptocurrency price tracking and alerts, with chart visualization and SQLite history.</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ashrafulislamse/campus-network-design-packet-tracer"><b>Campus Network Design</b></a></td>
       <td>Full university network design project with Packet Tracer topology, configuration, and redacted report (MIT).</td>
