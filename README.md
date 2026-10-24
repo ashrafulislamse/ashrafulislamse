@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashrafulislamse/ashrafulislamse/main/assets/header.svg" alt="MD Ashraful Islam — Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/ashrafulislamse/ashrafulislamse/main/assets/header.svg" alt="Ashraful Islam — AI Agents &amp; Full-Stack Products" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ashrafulislamse">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Web+%C2%B7+Mobile+%C2%B7+AI+Builder;Shipping+products+across+industries;Always+learning+new+things&font=Fira+Code&center=true&width=560&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agent+Developer;Founder+%40+ZingSwift;Building+InsightZing+%E2%80%94+verified+AI+revenue;Evidence+over+hype&font=Fira+Code&center=true&width=560&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,10 +16,16 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ashrafulwpdev"><img alt="X" title="X / Twitter" src="https://img.shields.io/badge/X-@ashrafulwpdev-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ashrafulwpdev"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulwpdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/ashrafulwpdevcom"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulwpdev-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/ashrafulwpdev"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulwpdev-FF4500?style=flat-square&logo=reddit&logoColor=white"></a>
+  <a href="https://ashrafulislam.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ashrafulislam.dev-0984e3?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://insightzing.com"><img alt="InsightZing" src="https://img.shields.io/badge/Current_InsightZing.com-1f6feb?style=for-the-badge&logo=substack&logoColor=white"></a>
+  <a href="https://zingswift.com"><img alt="ZingSwift" src="https://img.shields.io/badge/Studio_ZingSwift.com-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/ashrafulislamse"><img alt="X" title="X / Twitter" src="https://img.shields.io/badge/X-@ashrafulislamse-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ashrafulislamse"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulislamse-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/ashrafulislamse"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulislamse-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/ashrafulislamse"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulislamse-FF4500?style=flat-square&logo=reddit&logoColor=white"></a>
   <a href="https://github.com/ashrafulislamse"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-ashrafulislamse-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
@@ -29,11 +35,12 @@
 
 I'm a **full-stack developer** and **Computer Science student** at City University Malaysia. I design and ship production-grade **web, mobile, and AI-powered** applications end-to-end — from architecture and UI to deployment.
 
-I work across the **Next.js, TypeScript, Flutter, and Laravel** ecosystems and have built products spanning **healthcare, fintech, education, media, and productivity** while still a student. Currently building at **[@SoftourTech](https://github.com/SoftourTech)** 🇲🇾.
+I work across the **TypeScript, Node.js, Flutter, and Python** ecosystems and have shipped products spanning **healthcare, fintech, education, media, and productivity** while still a student. I build and operate digital products through **ZingSwift** ([zingswift.com](https://zingswift.com)), with engineering work in **[@NelvyxHQ](https://github.com/NelvyxHQ)**.
 
-- 🔭 Currently building **SmartCura** — a complete telemedicine ecosystem
-- 🌱 Currently exploring **AI integration & scalable system design**
-- 💬 Ask me about **Next.js, Flutter, Laravel, and Appwrite**
+- 🔭 Currently building **[InsightZing](https://insightzing.com)** — product intelligence backed by evidence: verified AI revenue claims, business models, market research
+- 🤖 Running **production agent workflows** — email triage, content ingestion, scheduled automations with regression tests and monitoring
+- 📡 Publishing **verified AI revenue research weekly** at insightzing.com
+- 💬 Ask me about **AI agents, Next.js, Flutter, and system reliability**
 - 📫 Reach me through any of the links above
 - ⚡ Fun fact: I've shipped products across 6+ industries before graduating
 
@@ -44,6 +51,20 @@ I work across the **Next.js, TypeScript, Flutter, and Laravel** ecosystems and h
 Flagship products I've designed and developed end-to-end — many include mobile apps, web dashboards, and serverless backends.
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://insightzing.com">📰 InsightZing</a></h3>
+      <p>Product intelligence backed by evidence — a weekly research platform verifying AI product revenue claims, business models, and market opportunities. Agent workflows handle email triage and content ingestion end-to-end.</p>
+      <code>Next.js</code> <code>Node.js</code> <code>Agent Workflows</code> <code>Cloudflare</code>
+      <br/>🔗 <a href="https://insightzing.com">insightzing.com</a> — <b>LIVE</b>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://zivento.app">🎟️ Zivento (CampusPass)</a></h3>
+      <p>University event management platform with QR check-ins and fraud detection. Live and serving events.</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>QR</code>
+      <br/>🔗 <a href="https://zivento.app">zivento.app</a> — <b>LIVE</b>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://smartcura.vercel.app">🩺 SmartCura</a></h3>
@@ -90,7 +111,6 @@ Flagship products I've designed and developed end-to-end — many include mobile
   <li><b>Basirah</b> — offline-first Islamic companion app (prayer times, Quran, Qibla) — <code>Flutter</code></li>
   <li><b>শেখার বোর্ড (Shekhar Board)</b> — interactive Bengali learning app for toddlers — <code>Flutter</code></li>
   <li><b>ZynPlay</b> — AI-ready video player with cloud sources &amp; cinematic UI — <code>Kotlin</code></li>
-  <li><b>CampusPass (Zivento)</b> — university event management with QR check-ins &amp; fraud detection — <code>Next.js</code></li>
   <li><b>SPFund</b> — transparent community donation fund management with automated receipts — <code>Next.js</code></li>
   <li><b>Restkin</b> — secure, renewal-aware personal document vault with smart reminders — <code>TypeScript</code></li>
 </ul>
@@ -108,6 +128,11 @@ Flagship products I've designed and developed end-to-end — many include mobile
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ashrafulislamse/campus-network-design-packet-tracer"><b>Campus Network Design</b></a></td>
+      <td>Full university network design project with Packet Tracer topology, configuration, and redacted report (MIT).</td>
+      <td><img alt="Cisco" src="https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white"></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ashrafulislamse/iambritto"><b>iambritto</b></a></td>
       <td>Official portfolio site of singer Britto — bilingual Bengali/English, cinematic dark-gold UI. <a href="https://iambritto.vercel.app">↗ live</a></td>
@@ -191,6 +216,8 @@ Flagship products I've designed and developed end-to-end — many include mobile
 
 <h3>🗄️ Databases &amp; Cloud</h3>
 <p>
+  <a href="https://workers.cloudflare.com"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white"></a>
+  <a href="https://www.prisma.io"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"></a>
   <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
   <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
   <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"></a>
@@ -205,6 +232,8 @@ Flagship products I've designed and developed end-to-end — many include mobile
   <a href="https://code.visualstudio.com"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D7?logo=visualstudiocode&logoColor=white"></a>
   <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="https://www.figma.com"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
+  <a href="https://core.telegram.org/bots/api"><img alt="Telegram Bots" src="https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white"></a>
+  <a href="https://www.python.org"><img alt="Python Automation" src="https://img.shields.io/badge/Automation-Python-3776AB?logo=python&logoColor=white"></a>
 </p>
 
 </details>
@@ -236,10 +265,10 @@ Flagship products I've designed and developed end-to-end — many include mobile
 </p>
 
 <p>
-  <a href="https://twitter.com/ashrafulwpdev"><img alt="X" src="https://img.shields.io/badge/X-@ashrafulwpdev-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ashrafulwpdev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulwpdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/ashrafulwpdevcom"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulwpdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/ashrafulwpdev"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulwpdev-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://x.com/ashrafulislamse"><img alt="X" src="https://img.shields.io/badge/X-@ashrafulislamse-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ashrafulislamse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulislamse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/ashrafulislamse"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulislamse-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/ashrafulislamse"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulislamse-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
 
 ---
