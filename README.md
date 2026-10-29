@@ -281,17 +281,24 @@ Flagship products I've designed and developed end-to-end — many include mobile
 
 ### 🤝 Let's Connect
 
-<p>
-  I'm open to collaborations, internships, and building meaningful products. Feel free to reach out on any platform:
-</p>
+<h3>🎯 What to reach me for</h3>
+<table>
+  <tr><td>💼 <b>Internships &amp; junior SWE roles</b></td><td>Open <b>Jan–Mar 2027</b> · Kuala Lumpur / Remote — full-stack (Next.js/TS), backend (FastAPI/Python), AI features</td></tr>
+  <tr><td>🚀 <b>Product collaboration</b></td><td>AI agents, LLM integrations, Flutter/Next.js products — I build end-to-end and document everything</td></tr>
+  <tr><td>💬 <b>Anything else</b></td><td>Open-source, student-life in KL, or just talking shop — all messages welcome</td></tr>
+</table>
 
+<h3>📬 The fastest route</h3>
 <p>
-  <a href="mailto:ashrafulislamse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashrafulislamse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/ashrafulislamse"><img alt="X" src="https://img.shields.io/badge/X-@ashrafulislamse-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ashrafulislamse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulislamse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/ashrafulislamse"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulislamse-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/ashrafulislamse"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fashrafulislamse-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="mailto:ashrafulislamse@gmail.com"><img alt="Email Ashraful" src="https://img.shields.io/badge/Email_me_directly-ashrafulislamse%40gmail.com-F97316?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+<p>
+  <a href="https://www.linkedin.com/in/ashrafulislamse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashrafulislamse-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/ashrafulislamse"><img alt="X" src="https://img.shields.io/badge/X-@ashrafulislamse-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://github.com/ashrafulislamse"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ashrafulislamse-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/ashrafulislamse"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ashrafulislamse-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+</p>
+<p><i>I reply to real messages — usually same day.</i></p>
 
 ---
 
