@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashrafulislamse/ashrafulislamse/main/assets/header.svg" alt="Ashraful Islam — AI Agents &amp; Full-Stack Products" />
+  <img src="https://raw.githubusercontent.com/ashrafulislamse/ashrafulislamse/main/assets/header-v3.svg?v=3" alt="Ashraful Islam — AI Agents &amp; Full-Stack Products" />
 </p>
 
 <p align="center">
