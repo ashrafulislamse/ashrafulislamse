@@ -46,79 +46,55 @@ My core stack is **TypeScript, Node.js, Next.js, Flutter, and Python**, with **C
 
 ### 🚀 Products I've Built
 
-Flagship products I've designed and developed end-to-end — many include mobile apps, web dashboards, and serverless backends.
+**4 shipped to users · 11 built end-to-end.** Every product below is real — the flagship four first, then the full build log.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://invoice-agent-api.ashrafulislamse.workers.dev">🧾 invoice-agent-api</a></h3>
-      <p>LLM invoice-verification agent running live on Cloudflare's edge — extraction + a 6-rule validation engine + audit receipts, <b>11/11 tests passing</b>, $0/month infrastructure.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Cloudflare Workers</code> <code>Workers AI</code>
-      <br/>🔗 <a href="https://invoice-agent-api.ashrafulislamse.workers.dev">live API</a> — <b>LIVE</b>
+      <h3><a href="https://invoice-agent-api.ashrafulislamse.workers.dev">invoice-agent-api</a></h3>
+      <p>An LLM invoice-verification agent running live on Cloudflare's edge — extracts invoice fields and runs them through a 6-rule validation engine with audit receipts. <b>11/11 tests passing, $0/month infrastructure.</b></p>
+      <p><em>Python · FastAPI · Cloudflare Workers · Workers AI</em></p>
+      <p>🔗 <a href="https://invoice-agent-api.ashrafulislamse.workers.dev/health">live API</a> · <a href="https://github.com/ashrafulislamse">private</a> — <b>LIVE</b></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://insightzing.com">📰 InsightZing</a></h3>
-      <p>Product intelligence backed by evidence — a weekly research platform verifying AI product revenue claims, business models, and market opportunities. Agent workflows handle email triage and content ingestion end-to-end.</p>
-      <code>Next.js</code> <code>Node.js</code> <code>Agent Workflows</code> <code>Cloudflare</code>
-      <br/>🔗 <a href="https://insightzing.com">insightzing.com</a> — <b>LIVE</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://zivento.app">🎟️ Zivento (CampusPass)</a></h3>
-      <p>University event management platform with QR check-ins and fraud detection. Live and serving events.</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>QR</code>
-      <br/>🔗 <a href="https://zivento.app">zivento.app</a> — <b>LIVE</b>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://smartcura.vercel.app">🩺 SmartCura</a></h3>
-      <p>Complete telemedicine ecosystem with patient &amp; doctor mobile apps (Flutter), a web admin portal (Next.js), IoT health monitoring, an AI clinical assistant, and emergency response.</p>
-      <code>Flutter</code> <code>Next.js</code> <code>IoT</code> <code>AI</code> <code>Appwrite</code>
-      <br/>🔗 <a href="https://smartcura.vercel.app">smartcura.vercel.app</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ashrafulislamse/trovatask">✅ TrovaTask</a></h3>
-      <p>A smart, minimalist task manager: an Android app (Java/MVVM), production-grade serverless cloud functions (Appwrite + FCM push), and an enterprise admin dashboard (Next.js 15).</p>
-      <code>Java</code> <code>Next.js</code> <code>Appwrite</code> <code>Firebase</code>
-      <br/>🔗 <a href="https://github.com/ashrafulislamse/trovatask">github.com/ashrafulislamse/trovatask</a>
+      <h3><a href="https://insightzing.com">InsightZing</a></h3>
+      <p>A weekly product-intelligence platform that verifies AI product revenue claims against sources — research agents handle email triage and content ingestion end-to-end.</p>
+      <p><em>Next.js · Node.js · Agent Workflows · Cloudflare</em></p>
+      <p>🔗 <a href="https://insightzing.com">insightzing.com</a> — <b>LIVE</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sewasafeui.vercel.app">🏠 SewaSafe</a></h3>
-      <p>Malaysia's trusted rental platform with escrow protection, e-KYC verification, and digital tenancy agreements. Built with Laravel 11, Tailwind CSS, and MySQL.</p>
-      <code>Laravel</code> <code>MySQL</code> <code>e-KYC</code> <code>Escrow</code>
-      <br/>🔗 <a href="https://sewasafeui.vercel.app">sewasafeui.vercel.app</a>
+      <h3>Deltern</h3>
+      <p>A multi-tenant sales &amp; distribution ERP in production with a real distributor — Flutter field apps, a Next.js dashboard, order-to-inventory workflows. Full case study on my portfolio.</p>
+      <p><em>Flutter · Next.js · TypeScript</em></p>
+      <p>🔗 <a href="https://ashrafulislam.dev/projects/deltern">case study</a> — <b>SHIPPED</b></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Memora AI</h3>
-      <p>An AI-first memory OS that captures voice, photo, and written memories, understands emotions, and reveals life patterns. Built with React Native, Expo, and GPT-4o.</p>
-      <code>React Native</code> <code>Expo</code> <code>GPT-4o</code> <code>AI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ashrafulislamse/omnistream">🎬 OmniStream</a></h3>
-      <p>A multi-cloud video streaming platform with Google Drive &amp; TeraBox support, an HLS player, and PWA capabilities. Built with React, TypeScript, and Appwrite.</p>
-      <code>React</code> <code>TypeScript</code> <code>HLS</code> <code>PWA</code>
-      <br/>🔗 <a href="https://github.com/ashrafulislamse/omnistream">github.com/ashrafulislamse/omnistream</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 OpenNilai</h3>
-      <p>An AI + blockchain credit intelligence platform. A monorepo with a Flutter mobile app, web app, and product blueprint docs.</p>
-      <code>Flutter</code> <code>AI</code> <code>Blockchain</code> <code>Monorepo</code>
+      <h3><a href="https://zivento.app">Zivento</a></h3>
+      <p>University event management with QR check-ins and fraud detection — built for campus-scale events and deployed live.</p>
+      <p><em>Next.js · TypeScript · Appwrite</em></p>
+      <p>🔗 <a href="https://zivento.app">zivento.app</a> — <b>LIVE</b></p>
     </td>
   </tr>
 </table>
 
-<h4>…and more</h4>
-<ul>
-  <li><b><a href="https://github.com/ashrafulislamse/basirah-app">Basirah</a></b> — offline-first Islamic companion app (prayer times, Quran, Qibla) — <code>Flutter</code></li>
-  <li><b><a href="https://github.com/ashrafulislamse/shekharboard">শেখার বোর্ড (Shekhar Board)</a></b> — interactive Bengali learning app for toddlers — <code>Flutter</code></li>
-  <li><b>ZynPlay</b> — AI-ready video player with cloud sources &amp; cinematic UI — <code>Kotlin</code></li>
-  <li><b>SPFund</b> — transparent community donation fund management with automated receipts — <code>Next.js</code></li>
-  <li><b>Restkin</b> — secure, renewal-aware personal document vault with smart reminders — <code>TypeScript</code></li>
-</ul>
+<details>
+<summary><b>The full build log — 7 more, all documented</b></summary>
+
+| Product | What it does | Status | Tech |
+|---|---|---|---|
+| <a href="https://smartcura.vercel.app"><b>SmartCura</b></a> | Telemedicine ecosystem: patient &amp; doctor apps (Flutter), web admin portal, AI clinical assistant | <a href="https://smartcura.vercel.app">demo LIVE</a> | Flutter, Next.js, NestJS |
+| SewaSafe | Malaysia rental platform: escrow protection, e-KYC, digital tenancy agreements | <a href="https://sewasafeui.vercel.app">demo LIVE</a> | Laravel, MySQL, Tailwind |
+| <a href="https://github.com/ashrafulislamse/trovatask"><b>TrovaTask</b></a> | Minimalist Android task manager with production-grade serverless push infrastructure | code | Java, MVVM, Appwrite, FCM |
+| ZynPlay | AI-ready video player with cloud sources and a cinematic UI | code | Kotlin, Jetpack Compose, Media3 |
+| <a href="https://github.com/ashrafulislamse/basirah-app"><b>Basirah</b></a> | Offline-first Islamic companion: prayer times, Quran, Qibla | code | Flutter, Dart |
+| <a href="https://github.com/ashrafulislamse/shekharboard"><b>Shekhar Board</b></a> | Interactive Bengali learning app for toddlers | code | Flutter |
+| Memora AI | AI-first memory OS: captures voice/photo memories, understands emotion patterns | blueprint | React Native, Expo |
+
+</details>
+
+<p><i>Full case studies with evidence on <a href="https://ashrafulislam.dev/projects">ashrafulislam.dev/projects</a> — 10 projects, every claim linked.</i></p>
 
 ---
 
