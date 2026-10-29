@@ -4,13 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/ashrafulislamse">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agent+Developer;Founder+%40+ZingSwift;Building+InsightZing+%E2%80%94+verified+AI+revenue;Evidence+over+hype&font=Fira+Code&center=true&width=560&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agent+Developer;Full-Stack+%C2%B7+Mobile+%C2%B7+LLM+Systems;Building+InsightZing+%E2%80%94+evidence-backed+product+intel;Open+to+internships+%E2%80%94+2027&font=Fira+Code&center=true&width=560&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashrafulislamse?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/50%2B-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/ashrafulislamse"><img alt="Contributions" src="https://img.shields.io/badge/800%2B-Contributions-238636?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ashrafulislamse?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/25%2B-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#-products-ive-built"><img alt="Products" src="https://img.shields.io/badge/10%2B-Products_Shipped-bc8cff?style=for-the-badge"></a>
   <a href="#-products-ive-built"><img alt="Industries" src="https://img.shields.io/badge/6%2B-Industries-f78166?style=for-the-badge"></a>
 </p>
@@ -18,7 +17,6 @@
 <p align="center">
   <a href="https://ashrafulislam.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ashrafulislam.dev-0984e3?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://insightzing.com"><img alt="InsightZing" src="https://img.shields.io/badge/Current_InsightZing.com-1f6feb?style=for-the-badge&logo=substack&logoColor=white"></a>
-  <a href="https://zingswift.com"><img alt="ZingSwift" src="https://img.shields.io/badge/Studio_ZingSwift.com-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -35,13 +33,14 @@
 
 I'm a software engineer and Computer Science student at City University Malaysia. I build **AI agents and workflow automation**, and I ship **full-stack products** — web, mobile, and AI-powered — from first sketch to production.
 
-My core stack is **TypeScript, Node.js, Next.js, Flutter, and Python**, with **Cloudflare Workers** doing a lot of the heavy lifting. Before graduating, I've shipped real products across healthcare, fintech, education, media, and productivity — and I run them through **ZingSwift** ([zingswift.com](https://zingswift.com)), my independent product studio.
+My core stack is **TypeScript, Node.js, Next.js, Flutter, and Python**, with **Cloudflare Workers** doing a lot of the heavy lifting. Before graduating, I've shipped real products across healthcare, fintech, education, media, and productivity — every claim on this profile links to evidence.
 
 - 🔭 Building **[InsightZing](https://insightzing.com)** — product intelligence backed by evidence: verifying AI product revenue claims with sources, not hype
 - 🤖 Operating **production agent workflows** — email triage, content ingestion, scheduled automations, with regression tests and monitoring so they don't break at 3am
 - 💬 Happy to talk about **AI agents, LLM automation, Next.js, Flutter, or system reliability**
 - 📫 The fastest way to reach me is [email](mailto:ashrafulislamse@gmail.com) — or any of the links below
 - ⚡ Shipped products across 6+ industries before finishing my degree
+- 🎯 **Open to internships & junior software-engineering roles (2027)** — Kuala Lumpur or remote
 
 ---
 
@@ -52,19 +51,25 @@ Flagship products I've designed and developed end-to-end — many include mobile
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://invoice-agent-api.ashrafulislamse.workers.dev">🧾 invoice-agent-api</a></h3>
+      <p>LLM invoice-verification agent running live on Cloudflare's edge — extraction + a 6-rule validation engine + audit receipts, <b>11/11 tests passing</b>, $0/month infrastructure.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Cloudflare Workers</code> <code>Workers AI</code>
+      <br/>🔗 <a href="https://invoice-agent-api.ashrafulislamse.workers.dev">live API</a> — <b>LIVE</b>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://insightzing.com">📰 InsightZing</a></h3>
       <p>Product intelligence backed by evidence — a weekly research platform verifying AI product revenue claims, business models, and market opportunities. Agent workflows handle email triage and content ingestion end-to-end.</p>
       <code>Next.js</code> <code>Node.js</code> <code>Agent Workflows</code> <code>Cloudflare</code>
       <br/>🔗 <a href="https://insightzing.com">insightzing.com</a> — <b>LIVE</b>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://zivento.app">🎟️ Zivento (CampusPass)</a></h3>
       <p>University event management platform with QR check-ins and fraud detection. Live and serving events.</p>
       <code>Next.js</code> <code>TypeScript</code> <code>QR</code>
       <br/>🔗 <a href="https://zivento.app">zivento.app</a> — <b>LIVE</b>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://smartcura.vercel.app">🩺 SmartCura</a></h3>
       <p>Complete telemedicine ecosystem with patient &amp; doctor mobile apps (Flutter), a web admin portal (Next.js), IoT health monitoring, an AI clinical assistant, and emergency response.</p>
@@ -72,10 +77,10 @@ Flagship products I've designed and developed end-to-end — many include mobile
       <br/>🔗 <a href="https://smartcura.vercel.app">smartcura.vercel.app</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://trovatask.com">✅ TrovaTask</a></h3>
+      <h3><a href="https://github.com/ashrafulislamse/trovatask">✅ TrovaTask</a></h3>
       <p>A smart, minimalist task manager: an Android app (Java/MVVM), production-grade serverless cloud functions (Appwrite + FCM push), and an enterprise admin dashboard (Next.js 15).</p>
       <code>Java</code> <code>Next.js</code> <code>Appwrite</code> <code>Firebase</code>
-      <br/>🔗 <a href="https://trovatask.com">trovatask.com</a>
+      <br/>🔗 <a href="https://github.com/ashrafulislamse/trovatask">github.com/ashrafulislamse/trovatask</a>
     </td>
   </tr>
   <tr>
