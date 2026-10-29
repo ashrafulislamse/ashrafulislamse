@@ -262,16 +262,16 @@ Flagship products I've designed and developed end-to-end — many include mobile
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="ashrafulislamse streak stats" src="https://streak-stats.demolab.com/?user=ashrafulislamse&theme=tokyonight&hide_border=true&background=0D1117" />
+    <img alt="ashrafulislamse streak stats" src="https://streak-stats.demolab.com/?user=ashrafulislamse&theme=github_dark&hide_border=true&background=0D1117&border=30363D&stroke=F97316" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="ashrafulislamse GitHub stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafulislamse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+    <img alt="ashrafulislamse GitHub stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafulislamse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="ashrafulislamse top languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+    <img alt="ashrafulislamse top languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&langs_count=8" />
   </a>
 </p>
 
