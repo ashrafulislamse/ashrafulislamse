@@ -261,12 +261,15 @@ Flagship products I've designed and developed end-to-end — many include mobile
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="ashrafulislamse streak stats" src="https://streak-stats.demolab.com/?user=ashrafulislamse&theme=github_dark&hide_border=true&background=0D1117&border=30363D&stroke=F97316" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="ashrafulislamse GitHub stats" height="180" src="https://grs-amber.vercel.app/api?username=ashrafulislamse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="ashrafulislamse top languages" height="180" src="https://grs-amber.vercel.app/api/top-langs/?username=ashrafulislamse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&langs_count=8" />
   </a>
 </p>
 
-<i>Note: Contribution stats reflect my public activity. Most of my products live in private repositories.</i>
+<i>Note: stats cards run on my own stats instance with private contributions counted.</i>
 
 ---
 
